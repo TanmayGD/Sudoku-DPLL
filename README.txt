@@ -1,5 +1,4 @@
-Author: Tanmay Gopaldas Dadhania / tgd8275
-Collaborators: rk4748, ts4098
+Author: Tanmay Gopaldas Dadhania
 
 The python file should run with any system having python 3:
 
